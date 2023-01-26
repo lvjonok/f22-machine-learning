@@ -1,0 +1,4 @@
+svhn
+triple_mnist
+*.zip
+venv
